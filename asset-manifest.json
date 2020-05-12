@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/developerFolio/static/css/main.7efdcd49.chunk.css",
-    "main.js": "/developerFolio/static/js/main.c151e906.chunk.js",
-    "main.js.map": "/developerFolio/static/js/main.c151e906.chunk.js.map",
-    "runtime-main.js": "/developerFolio/static/js/runtime-main.ca694d6a.js",
-    "runtime-main.js.map": "/developerFolio/static/js/runtime-main.ca694d6a.js.map",
-    "static/js/2.9882c1b1.chunk.js": "/developerFolio/static/js/2.9882c1b1.chunk.js",
-    "static/js/2.9882c1b1.chunk.js.map": "/developerFolio/static/js/2.9882c1b1.chunk.js.map",
-    "index.html": "/developerFolio/index.html",
-    "precache-manifest.2e822da87cd7c4192c25a4deeca62df8.js": "/developerFolio/precache-manifest.2e822da87cd7c4192c25a4deeca62df8.js",
-    "service-worker.js": "/developerFolio/service-worker.js",
-    "static/css/main.7efdcd49.chunk.css.map": "/developerFolio/static/css/main.7efdcd49.chunk.css.map",
-    "static/media/index.css": "/developerFolio/static/media/Montserrat-Regular.ee653992.ttf",
-    "static/media/contactMail.png": "/developerFolio/static/media/contactMail.d6d4086f.png",
-    "static/media/developerActivity.svg": "/developerFolio/static/media/developerActivity.59389695.svg",
-    "static/media/all.css": "/developerFolio/static/media/fa-solid-900.c2801fb4.svg",
-    "static/media/logo.svg": "/developerFolio/static/media/logo.25bf045c.svg",
-    "static/media/manOnTable.svg": "/developerFolio/static/media/manOnTable.52be3144.svg",
-    "static/media/skill.svg": "/developerFolio/static/media/skill.34409398.svg",
-    "static/media/TalkCard.css": "/developerFolio/static/media/talksCardBack.0288c5ec.svg"
+    "main.css": "/static/css/main.60c28679.chunk.css",
+    "main.js": "/static/js/main.e59a3c0b.chunk.js",
+    "main.js.map": "/static/js/main.e59a3c0b.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.81b1a730.js",
+    "runtime-main.js.map": "/static/js/runtime-main.81b1a730.js.map",
+    "static/js/2.9882c1b1.chunk.js": "/static/js/2.9882c1b1.chunk.js",
+    "static/js/2.9882c1b1.chunk.js.map": "/static/js/2.9882c1b1.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.784d5178df41c2bf357c517343af6469.js": "/precache-manifest.784d5178df41c2bf357c517343af6469.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.60c28679.chunk.css.map": "/static/css/main.60c28679.chunk.css.map",
+    "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/contactMail.png": "/static/media/contactMail.d6d4086f.png",
+    "static/media/developerActivity.svg": "/static/media/developerActivity.59389695.svg",
+    "static/media/all.css": "/static/media/fa-solid-900.c2801fb4.svg",
+    "static/media/logo.svg": "/static/media/logo.25bf045c.svg",
+    "static/media/manOnTable.svg": "/static/media/manOnTable.52be3144.svg",
+    "static/media/skill.svg": "/static/media/skill.34409398.svg",
+    "static/media/TalkCard.css": "/static/media/talksCardBack.0288c5ec.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.ca694d6a.js",
+    "static/js/runtime-main.81b1a730.js",
     "static/js/2.9882c1b1.chunk.js",
-    "static/css/main.7efdcd49.chunk.css",
-    "static/js/main.c151e906.chunk.js"
+    "static/css/main.60c28679.chunk.css",
+    "static/js/main.e59a3c0b.chunk.js"
   ]
 }
